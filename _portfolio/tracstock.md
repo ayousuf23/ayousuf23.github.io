@@ -5,4 +5,4 @@ test: 12
 collection: portfolio
 ---
 
-Tracstock is a website for 
+Tracstock is a website for tracking stocks.
