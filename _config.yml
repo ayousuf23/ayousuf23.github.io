@@ -14,7 +14,7 @@ description              : &description "Student at Johns Hopkins University"
 url                      : https://ayousuf23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ayousuf23/ayousuf23.github.io"
-teaser                   :  "Abdullah.jpg"
+teaser                   :  #"Abdullah.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Abdullah Yousuf"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Abdullah.jpg"
+  bio              : "Student at Johns Hopkins University"
   location         : "Location"
   employer         :
   pubmed           : 
