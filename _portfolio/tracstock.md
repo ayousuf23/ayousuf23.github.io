@@ -1,6 +1,7 @@
 ---
 title: "Tracstock"
 date: "August 16, 2020"
+test: 12
 collection: portfolio
 ---
 
