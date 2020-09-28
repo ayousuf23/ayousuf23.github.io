@@ -1,6 +1,6 @@
 ---
 title: "Mini Calculator Interpreter"
-date: "September 2020"
+date: "September 18, 2020"
 collection: portfolio
 ---
 
