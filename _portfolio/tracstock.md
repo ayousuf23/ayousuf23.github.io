@@ -1,8 +1,6 @@
 ---
 title: "Tracstock"
-date: "August 16, 2020"
-test: 12
 collection: portfolio
 ---
-
+**Created**: July-August 2020
 Tracstock is a website for tracking stocks.
