@@ -3,6 +3,7 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+date: false
 ---
 
 This is a colletion of the software/code I've made/written in reverse chronological order. I use Microsoft Visual Studio to code C, C++, and C#. I use Visual Studio Code to code Python. I use IntelliJ IDEA to code Java.
