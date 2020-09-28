@@ -3,10 +3,8 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
-published: false
 ---
-test2
-This is a colletion of the software/code I've made/written in reverse chronological order. I use Microsoft Visual Studio to code C, C++, and C#. I use Visual Studio Code to code Python. I use IntelliJ IDEA to code Java.
+This is a collection of the software/code I've made/written in reverse chronological order. I use Microsoft Visual Studio to code C, C++, and C#. I use Visual Studio Code to code Python. I use IntelliJ IDEA to code Java.
 
 These are the programming langauges I know (from most frequently used to least frequently used):
 1. C#
