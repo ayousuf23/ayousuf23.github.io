@@ -31,7 +31,7 @@ Below are the projects I've written and made. I hope you like them!
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+{% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
