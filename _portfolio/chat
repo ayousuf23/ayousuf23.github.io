@@ -1,0 +1,9 @@
+---
+title: "Chat"
+collection: portfolio
+---
+
+<p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Created:</strong> June 2020</p>
+<p>
+Chat is a chat application using TCP/IP protocol and sockets.
+</p>
