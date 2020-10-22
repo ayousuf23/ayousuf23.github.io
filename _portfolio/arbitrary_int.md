@@ -7,27 +7,28 @@ order: 1040
 Arbitrary Precision Integers is a small C library for arbitrary precision positive integers. In C, integers are restricted to a maximum size of 64-bits. For storing integers greater than 2<sup>64</sup>-1, types with higher capacities are needed. The arbitary precision integer type in this library is virtually unrestricted in size. Supported operations on this type are addition, subtraction, left bitwise shift, and comparison.
 
 These are the supported functions for the arbitrary precision integer type (ApInt):
-`ApInt *apint_create_from_u64(uint64_t val);
 
-ApInt *apint_create_from_hex(const char *hex);
+`ApInt *apint_create_from_u64(uint64_t val);`
 
-void apint_destroy(ApInt *ap);
+`ApInt *apint_create_from_hex(const char *hex);`
 
-uint64_t apint_get_bits(ApInt *ap, unsigned n);
+`void apint_destroy(ApInt *ap);`
 
-int apint_highest_bit_set(ApInt *ap);
+`uint64_t apint_get_bits(ApInt *ap, unsigned n);`
 
-ApInt *apint_lshift(ApInt *ap);
+`int apint_highest_bit_set(ApInt *ap);`
 
-ApInt *apint_lshift_n(ApInt *ap, unsigned n);
+`ApInt *apint_lshift(ApInt *ap);`
 
-char *apint_format_as_hex(ApInt *ap);
+`ApInt *apint_lshift_n(ApInt *ap, unsigned n);`
 
-ApInt *apint_add(const ApInt *a, const ApInt *b);
+`char *apint_format_as_hex(ApInt *ap);`
 
-ApInt *apint_sub(const ApInt *a, const ApInt *b);
+`ApInt *apint_add(const ApInt *a, const ApInt *b);`
 
-int apint_compare(const ApInt *left, const ApInt *right);`
+`ApInt *apint_sub(const ApInt *a, const ApInt *b);`
+
+`int apint_compare(const ApInt *left, const ApInt *right);`
 
 `apint_create_from_u64`: Returns a pointer to an ApInt instance whose value is specified by the val parameter, which is a 64-bit unsigned value.
 
