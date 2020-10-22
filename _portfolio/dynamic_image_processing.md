@@ -21,16 +21,16 @@ This is the original image (by [latch.r](https://www.flickr.com/photos/lachlanro
 ![A kitten](/images/portfolio/dynamic_image_kitten.png)
 
 This is the result of applying the swapbg plugin to the image:
-![A kitten](/images/portfolio/dynamic_image_kitten_swapbg.png)
+![The result of applying the swapbg plugin to the kitten image](/images/portfolio/dynamic_image_kitten_swapbg.png)
 
 This is the result of applying the mirrorh plugin to the image:
-![A kitten](/images/portfolio/dynamic_image_kitten_mirrorh.png)
+![The result of applying the mirrorh plugin to the kitten image](/images/portfolio/dynamic_image_kitten_mirrorh.png)
 
 This is the result of applying the mirrorv plugin to the image:
-![A kitten](/images/portfolio/dynamic_image_kitten_mirrorv.png)
+![The result of applying the mirrorv plugin to the kitten image](/images/portfolio/dynamic_image_kitten_mirrorv.png)
 
 This is the result of applying the tile plugin to the image with parameter N=2:
-![A kitten](/images/portfolio/dynamic_image_kitten_tile.png)
+![The result of applying the tile plugin to the kitten image](/images/portfolio/dynamic_image_kitten_title.png)
 
 This is the result of applying the expose plugin to the image with parameter 0.5:
-![A kitten](/images/portfolio/dynamic_image_kitten_expose.png)
+![The result of applying the expose plugin to the kitten image](/images/portfolio/dynamic_image_kitten_expose.png)
