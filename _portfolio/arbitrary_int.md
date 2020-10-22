@@ -1,6 +1,6 @@
 ---
 title: "Arbitrary Precision Integers"
-created: September-October 2020
+created: February 2020
 collection: portfolio
 order: 1040
 ---
