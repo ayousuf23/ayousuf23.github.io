@@ -29,8 +29,8 @@ Below are the projects I've written and made. I hope you like them!
 
 {% include base_path %}
 
-
-{% for post in site.portfolio | sort: 'order' %}
+{% assign portfolio = site.portfolio | sort: "order" %}
+{% for post in portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
