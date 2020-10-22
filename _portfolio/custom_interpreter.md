@@ -1,6 +1,6 @@
 ---
 title: "Custom Interpreter"
-created: September-October 2020"
+created: September-October 2020
 collection: portfolio
 ---
 
