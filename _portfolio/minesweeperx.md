@@ -12,4 +12,4 @@ I created MinesweeperX using C#, .NET Core, MonoGame, and Geonbit.UI. Actually, 
 
 The game plays like a Minesweeper game. There is a timer, a flag, and a grid of cells waiting to be uncovered. You can buy the game on Steam or Google Play. Please click the image at the top with the text "Avalible on Steam" to visit the game's Steam page.
 
-![A demonstration of MinesweeperX](/images/portfolio/minesweeperx_demonstration.jpg)
+![A demonstration of MinesweeperX](/images/portfolio/minesweeperx_demonstration.jpg){: .align-center}
