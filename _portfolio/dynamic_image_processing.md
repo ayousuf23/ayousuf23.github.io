@@ -18,19 +18,19 @@ The program also checks what plugins are available and lists them uses the `list
 Here are some exmaples of what the program and plugins do:
 
 This is the original image (by [latch.r](https://www.flickr.com/photos/lachlanrogers/), [some rights reserved](https://creativecommons.org/licenses/by-sa/2.0/)):
-![A kitten](/images/portfolio/dynamic_image_kitten.png)
+![A kitten](/images/portfolio/dynamic_image_kitten.png){: .align-center}
 
 This is the result of applying the swapbg plugin to the image:
-![The result of applying the swapbg plugin to the kitten image](/images/portfolio/dynamic_image_kitten_swapbg.png)
+![The result of applying the swapbg plugin to the kitten image](/images/portfolio/dynamic_image_kitten_swapbg.png){: .align-center}
 
 This is the result of applying the mirrorh plugin to the image:
-![The result of applying the mirrorh plugin to the kitten image](/images/portfolio/dynamic_image_kitten_mirrorh.png)
+![The result of applying the mirrorh plugin to the kitten image](/images/portfolio/dynamic_image_kitten_mirrorh.png){: .align-center}
 
 This is the result of applying the mirrorv plugin to the image:
-![The result of applying the mirrorv plugin to the kitten image](/images/portfolio/dynamic_image_kitten_mirrorv.png)
+![The result of applying the mirrorv plugin to the kitten image](/images/portfolio/dynamic_image_kitten_mirrorv.png){: .align-center}
 
 This is the result of applying the tile plugin to the image with parameter N=2:
-![The result of applying the tile plugin to the kitten image](/images/portfolio/dynamic_image_kitten_title.png)
+![The result of applying the tile plugin to the kitten image](/images/portfolio/dynamic_image_kitten_title.png){: .align-center}
 
 This is the result of applying the expose plugin to the image with parameter 0.5:
-![The result of applying the expose plugin to the kitten image](/images/portfolio/dynamic_image_kitten_expose.png)
+![The result of applying the expose plugin to the kitten image](/images/portfolio/dynamic_image_kitten_expose.png){: .align-center}
