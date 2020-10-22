@@ -2,7 +2,7 @@
 title: "Mini Calculator Interpreter"
 created: September 2020
 collection: portfolio
-order: 90
+order: 1090
 ---
 
 I created an interpreter for mathematical expressions. It supports parentheses, nested parentheses, user-defined variables, addition, substraction, multiplication, divison, and exponents. 
