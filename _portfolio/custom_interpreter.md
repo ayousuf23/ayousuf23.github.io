@@ -1,7 +1,6 @@
 ---
 title: "Custom Interpreter"
 created: September-October 2020
-date: January 1, 2020
 collection: portfolio
 order: 1100
 ---
