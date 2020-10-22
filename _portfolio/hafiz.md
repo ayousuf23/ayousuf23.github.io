@@ -12,4 +12,5 @@ The site is currently being hosted on Azure. Please [click here](https://quranha
 
 The source code for the website and the XML Formatter are hosted on GitHub. Please [click here](https://github.com/appzoidinc/Hafiz) or copy this link to visit the GitHub repository: [https://github.com/appzoidinc/Hafiz](https://github.com/appzoidinc/Hafiz)
 
-*Note* the repository for the XML Formatter is under the same user as the Hafiz website repository. {: .notice}
+*Note* the repository for the XML Formatter is under the same user as the Hafiz website repository. 
+{: .notice}
