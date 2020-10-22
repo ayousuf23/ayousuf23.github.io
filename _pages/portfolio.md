@@ -30,7 +30,7 @@ Below are the projects I've written and made. I hope you like them!
 {% include base_path %}
 
 
-{% for post in site.portfolio | sort: 'order' | reverse %}
+{% for post in site.portfolio | sort: 'order' %}
   {% include archive-single.html %}
 {% endfor %}
 
