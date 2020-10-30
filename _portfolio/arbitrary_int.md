@@ -2,7 +2,7 @@
 title: "Arbitrary Precision Integers"
 created: February 2020
 collection: portfolio
-order: 1040
+order: 1010
 ---
 Arbitrary Precision Integers is a small C library for arbitrary precision positive integers. In C, integers are restricted to a maximum size of 64-bits. For storing integers greater than 2<sup>64</sup>-1, types with higher capacities are needed. The arbitary precision integer type in this library is virtually unrestricted in size. Supported operations on this type are addition, subtraction, left bitwise shift, and comparison.
 
