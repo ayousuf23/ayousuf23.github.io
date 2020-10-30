@@ -2,7 +2,7 @@
 title: "Cache Simulator"
 created: March 2020
 collections: portfolio
-order: 1020
+order: 1030
 ---
 Cache Simulator is a project that aims to simulate how cache on processors behave. The purporse of the cache is to provide quick memory storage for the processor because accessing RAM and hard drive is slow. Processors generally have high frequencies, so it might take hundreds of cycle to get data from RAM and thousands of cycles to get data from the hard drive. On the other hand, it would take a few cycles to retrieve data from cache.
 
