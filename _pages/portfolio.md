@@ -29,7 +29,8 @@ I have limited experience working with Swift, UIKit, and SpriteKit for iOS.
 
 Below are the projects I've written and made. I hope you like them!
 
-**Notice**: this list of projects is **not** complete and I still have many projects to add. Most of my projects are hosted on a private git repository. If you want access to the repositories please contact me. {: .notice}
+**Notice**: this list of projects is **not** complete and I still have many projects to add. Most of my projects are hosted on a private git repository. If you want access to the repositories please contact me. 
+{: .notice}
 
 {% include base_path %}
 
