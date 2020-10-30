@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Abdullah Yousuf"
   avatar           : "Abdullah.jpg"
-  bio              : "Student at Johns Hopkins University"
-  location         : "Location"
+  bio              : "Computer Scientist, Student at Johns Hopkins University"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ayousuf23"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
