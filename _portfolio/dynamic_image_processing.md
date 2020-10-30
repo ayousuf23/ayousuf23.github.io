@@ -2,7 +2,7 @@
 title: "Image processing with dynamic linking"
 collection: portfolio
 created: April 2020
-order: 1010
+order: 1040
 ---
 Image Processing with Dynamic Linking is a project about processing images using plugins that are dynamically linked. The program developed in the project take an image and applies a specified plugin to the image. The program loads the image and dynamically calls the specified plugin to process the image.
 
