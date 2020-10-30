@@ -2,7 +2,7 @@
 title: "Postfix Calculator"
 created: February-March 2020
 collection: portfolio
-order: 1030
+order: 1020
 ---
  A postfix calculator is a type of calculator that evaluates postfix expressions. An expression like `1+2` where the operator is between the operands is called an infix expression. On the other hand, when the operator comes after the operands, it is called a postfix expression. 
  
