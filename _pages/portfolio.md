@@ -25,6 +25,8 @@ These are the frameworks I use or have worked with (in no particular order):
 - ASP.NET Core
 - JUnit
 
+I have limited experience working with Swift, UIKit, and SpriteKit for iOS.
+
 Below are the projects I've written and made. I hope you like them!
 
 {% include base_path %}
