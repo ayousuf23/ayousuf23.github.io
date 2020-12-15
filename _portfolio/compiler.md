@@ -1,9 +1,10 @@
 ---
-title: "Pascal Compiler"
-created: November-December 2020
+title: "test"
+created: March 2020
 collections: portfolio
-order:1110
+order: 1030
 ---
+
 I created an x86-64 compiler for a Pascal-like language, which has static types. The language itself is not feature rich, but it supports mathematical expressions, reading user
 input, writing to the console/terminal, arrays, and record types, which are user-defined container types like structs. 
 
