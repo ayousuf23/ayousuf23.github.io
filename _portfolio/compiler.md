@@ -30,6 +30,7 @@ BEGIN
 END.
 ```
 The program above reads an integer from user input and writes it to the terminal/console. The program can be compiled using `./compiler -o program.txt` and the result is:
+
 ```
 .section .rodata
  s_readint_fmt : .string "%ld"
@@ -53,7 +54,7 @@ main:
         pop %rbp
         movq $0, %rax
         ret
-        ```
+```
         
 Note that the variable is being stored on the stack. It currently takes 16 instructions although some of them are boiler plate instructions. In the future, local value numbering
 could be used to cut down on the code size.
