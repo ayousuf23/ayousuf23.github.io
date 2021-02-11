@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My contact information is under my profile on the right.
+
 Education
 ======
 * B.S. in Computer Science and Economics, Johns Hopkins University, 2023
