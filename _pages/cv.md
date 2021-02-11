@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My contact information is under my profile on the right.
+If you want to contact me, my email is on the right (click on "Email").
 
 Education
 ======
