@@ -13,7 +13,7 @@ The website uses the user's location in order to find nearby restaurants. The us
 Users can also apply filters when searching for restaurants. For example, they choose specific cuisines,
 price ranges, and options such as kosher, vegan, or vegetarian. 
 
-The website comprises a frontend, and a backend with a database. The backend server is responsible for obtaining restaurant data, filtering restaurant data, user registration, user login, and hosting groups. 
+The website comprises of a frontend, and a backend with a database. The backend server is responsible for obtaining restaurant data, filtering restaurant data, user registration, user login, and hosting groups. 
 For the backend, we used Spark and Socket.io. For the frontend, we used React.
 
 My team and I used Agile methodology while working on our app. We planned the project by looking at must-have features and nice-to-haves and creating a roadmap that
